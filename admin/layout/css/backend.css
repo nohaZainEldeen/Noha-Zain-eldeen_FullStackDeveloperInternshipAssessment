@@ -1,0 +1,78 @@
+/* Start Main rules */
+
+body {
+    background-color: #f4f4f4;
+}
+
+/* End Main rules */
+
+
+
+/* Start Login Form */
+
+.login{
+    width: 300px;
+    margin: 100px auto;
+}
+.login h4{
+    color:#888;
+}
+.login input{
+    margin-bottom: 10px;
+}
+.login .form-control{
+    background-color: #eaeaea;
+}
+.login .btn{
+    background-color: #17a2b8;
+}
+
+/* End Login Form */
+
+/* Start Bootstrap Edits */
+.dropdown-menu {
+    background-color: #343a40;
+}
+/* End Bootstrap Edits */
+
+h1{
+    font-size: 55px;
+    margin: 40px 0;
+    font-weight: bold;
+    color: #17a2b8;
+    
+}
+.asterisk{
+    position: relative;
+    color: #e04237;
+    padding: 5px;
+}
+.show-pass {
+    position: relative;
+    float:right;
+    top:-28px;
+    right:-25px;
+    color: #e04237;
+}
+.main-table tr:first-child td{
+    background-color: #17a2b8;
+    color: #222;
+}
+.card{
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+.list-group-item {
+    border: none;   
+    text-align: center;
+    color: #17a2b8;
+    font-weight: bold;
+}
+a{
+    color: #f4f4f4;
+}
+
+
